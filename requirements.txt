@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+langgraph
+openai
+python-dotenv
+psycopg2-binary
+pandas
+openpyxl
+matplotlib
+streamlit
+requests
+pydantic
+plotly
+seaborn
