@@ -1,0 +1,5 @@
+OPENAI_API_KEY=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
+MOCK_MODE=False
+SECRET_KEY=a-long-random-string
+DATA_PATH=https://docs.google.com/spreadsheets/d/1ta3_3psAU-SOpmN81t8b0BX8KrHSti2eytA_pgm2FHs/edit?gid=997524522#gid=997524522
+DESCRIPTION_PATH=data/data_description_uber.txt
